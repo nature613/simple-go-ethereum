@@ -4,6 +4,8 @@ Interact to smart contract on Ropsten Test Network Ethereum using Golang
 
 Documents: https://goethereumbook.org/en/smart-contracts/
 
+If you're interested in NodeJS connecting to Ethereum, please reference my simple-node-ethereum here: https://github.com/huynhsamha/simple-node-ethereum
+
 ## Set up accounts
 
 ### Create accounts and deposit ether with MetaMask
